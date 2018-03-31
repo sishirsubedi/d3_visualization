@@ -1,0 +1,804 @@
+Rank,Movie,"Release
+Date",Distributor,Genre,MPAA,2016 Gross,Tickets Sold
+1,Finding Dory,6/17/2016,Walt Disney,Adventure,PG,"$486,295,561",56219140
+2,Rogue One: A Star Wars Story,12/16/2016,Walt Disney,Adventure,PG-13,"$424,987,707",49131526
+3,Captain America: Civil War,5/6/2016,Walt Disney,Action,PG-13,"$408,084,349",47177381
+4,The Secret Life of Pets,7/8/2016,Universal,Adventure,PG,"$368,384,330",42587783
+5,The Jungle Book,4/15/2016,Walt Disney,Adventure,PG,"$364,001,123",42081054
+6,Deadpool,2/12/2016,20th Century Fox,Action,R,"$363,070,709",41973492
+7,Zootopia,3/4/2016,Walt Disney,Adventure,PG,"$341,268,248",39452976
+8,Batman v Superman: Dawn of Justice,3/25/2016,Warner Bros.,Action,PG-13,"$330,360,194",38191930
+9,Suicide Squad,8/5/2016,Warner Bros.,Action,PG-13,"$325,100,054",37583821
+10,Doctor Strange,11/4/2016,Walt Disney,Adventure,PG-13,"$230,107,790",26602056
+11,Fantastic Beasts and Where to Find Them,11/18/2016,Warner Bros.,Adventure,PG-13,"$222,675,573",25742841
+12,Moana,11/23/2016,Walt Disney,Musical,PG,"$210,046,114",24282787
+13,Star Wars Ep. VII: The Force Awakens,12/18/2015,Walt Disney,Adventure,PG-13,"$194,453,283",22480148
+14,The Revenant,12/25/2015,20th Century Fox,Adventure,R,"$182,765,375",21128945
+15,Sing,12/21/2016,Universal,Adventure,PG,"$166,497,820",19248302
+16,Jason Bourne,7/29/2016,Universal,Action,PG-13,"$162,192,920",18750626
+17,Star Trek Beyond,7/22/2016,Paramount Pictures,Adventure,PG-13,"$158,848,340",18363969
+18,X-Men: Apocalypse,5/27/2016,20th Century Fox,Action,PG-13,"$155,442,489",17970229
+19,Trolls,11/4/2016,20th Century Fox,Adventure,PG,"$150,130,292",17356103
+20,Kung Fu Panda 3,1/29/2016,20th Century Fox,Adventure,PG,"$143,528,619",16592903
+21,Ghostbusters,7/15/2016,Sony Pictures,Comedy,PG-13,"$128,350,574",14838216
+22,Central Intelligence,6/17/2016,Warner Bros.,Comedy,PG-13,"$127,440,871",14733049
+23,The Legend of Tarzan,7/1/2016,Warner Bros.,Adventure,PG-13,"$126,643,061",14640816
+24,Sully,9/9/2016,Warner Bros.,Drama,PG-13,"$124,976,335",14448131
+25,Bad Moms,7/29/2016,STX Entertainment,Comedy,R,"$113,257,297",13093329
+26,The Angry Birds Movie,5/20/2016,Sony Pictures,Adventure,PG,"$107,509,366",12428828
+27,Independence Day: Resurgence,6/24/2016,20th Century Fox,Action,PG-13,"$103,144,286",11924194
+28,The Conjuring 2: The Enfield Poltergeist,6/10/2016,Warner Bros.,Horror,R,"$102,470,008",11846244
+29,Sausage Party,8/12/2016,Sony Pictures,Adventure,R,"$97,670,358",11291370
+30,The Magnificent Seven,9/23/2016,Sony Pictures,Western,PG-13,"$93,420,253",10800029
+31,Arrival,11/11/2016,Paramount Pictures,Drama,PG-13,"$92,191,690",10657998
+32,Ride Along 2,1/15/2016,Universal,Comedy,PG-13,"$90,862,685",10504356
+33,Don’t Breathe,8/26/2016,Sony Pictures,Horror,R,"$89,217,875",10314205
+34,Miss Peregrine’s Home for Peculiar Children,9/30/2016,20th Century Fox,Adventure,PG-13,"$86,945,137",10051461
+35,The Accountant,10/14/2016,Warner Bros.,Thriller/Suspense,R,"$85,856,696",9925630
+36,Teenage Mutant Ninja Turtles: Out of the Shadows,6/3/2016,Paramount Pictures,Adventure,PG-13,"$82,051,601",9485734
+37,The Purge: Election Year,7/1/2016,Universal,Horror,R,"$79,042,440",9137854
+38,Alice Through the Looking Glass,5/27/2016,Walt Disney,Adventure,PG,"$77,042,381",8906633
+39,Pete’s Dragon,8/12/2016,Walt Disney,Adventure,PG,"$76,233,151",8813081
+40,The Girl on the Train,10/7/2016,Universal,Thriller/Suspense,R,"$75,395,035",8716189
+41,Tyler Perry’s Boo! A Madea Halloween,10/21/2016,Lionsgate,Comedy,PG-13,"$73,206,343",8463161
+42,Storks,9/23/2016,Warner Bros.,Adventure,PG,"$72,414,850",8371659
+43,10 Cloverfield Lane,3/11/2016,Paramount Pictures,Thriller/Suspense,PG-13,"$72,082,999",8333294
+44,Lights Out,7/22/2016,Warner Bros.,Horror,PG-13,"$67,268,835",7776744
+45,The Divergent Series: Allegiant,3/18/2016,Lionsgate,Action,PG-13,"$66,184,051",7651335
+46,Now You See Me 2,6/10/2016,Lionsgate,Thriller/Suspense,PG-13,"$65,075,540",7523183
+47,Hacksaw Ridge,11/4/2016,Lionsgate,Drama,R,"$64,606,565",7468967
+48,Ice Age: Collision Course,7/22/2016,20th Century Fox,Adventure,PG,"$64,063,008",7406128
+49,The Boss,4/8/2016,Universal,Comedy,R,"$63,077,560",7292203
+50,London Has Fallen,3/4/2016,Focus Features,Action,R,"$62,524,260",7228238
+51,Miracles from Heaven,3/16/2016,Sony Pictures,Drama,PG,"$61,705,123",7133540
+52,Deepwater Horizon,9/30/2016,Lionsgate,Drama,PG-13,"$61,433,527",7102141
+53,My Big Fat Greek Wedding 2,3/25/2016,Universal,Comedy,PG-13,"$59,689,605",6900532
+54,Jack Reacher: Never Go Back,10/21/2016,Paramount Pictures,Action,PG-13,"$58,574,515",6771620
+55,Daddy’s Home,12/25/2015,Paramount Pictures,Comedy,PG-13,"$56,467,276",6528008
+56,Me Before You,6/3/2016,Warner Bros.,Drama,PG-13,"$56,245,075",6502321
+57,The BFG,7/1/2016,Walt Disney,Adventure,PG,"$55,483,770",6414308
+58,Passengers,12/21/2016,Sony Pictures,Thriller/Suspense,PG-13,"$55,380,209",6402336
+59,Neighbors 2: Sorority Rising,5/20/2016,Universal,Comedy,R,"$55,340,730",6397772
+60,The Shallows,6/24/2016,Sony Pictures,Drama,PG-13,"$55,121,623",6372441
+61,Barbershop: The Next Cut,4/15/2016,Warner Bros.,Comedy,PG-13,"$54,030,051",6246249
+62,13 Hours: The Secret Soldiers of Benghazi,1/15/2016,Paramount Pictures,Drama,R,"$52,853,219",6110198
+63,Office Christmas Party,12/9/2016,Paramount Pictures,Comedy,R,"$51,137,285",5911824
+64,Kubo and the Two Strings,8/19/2016,Focus Features,Adventure,PG,"$48,023,088",5551802
+65,The Huntsman: Winter’s War,4/22/2016,Universal,Action,PG-13,"$48,003,015",5549481
+66,Warcraft,6/10/2016,Universal,Action,PG-13,"$47,225,655",5459613
+67,How to be Single,2/12/2016,Warner Bros.,Romantic Comedy,R,"$46,843,513",5415435
+68,Mike and Dave Need Wedding Dates,7/8/2016,20th Century Fox,Comedy,R,"$46,009,673",5319037
+69,War Dogs,8/19/2016,Warner Bros.,Comedy,R,"$43,034,523",4975089
+70,Almost Christmas,11/11/2016,Universal,Drama,PG-13,"$42,002,805",4855815
+71,Money Monster,5/13/2016,Sony Pictures,Thriller/Suspense,R,"$41,012,075",4741280
+72,Allied,11/23/2016,Paramount Pictures,Drama,R,"$39,598,941",4577912
+73,Nerve,7/27/2016,Lionsgate,Thriller/Suspense,PG-13,"$38,583,626",4460534
+74,Sisters,12/18/2015,Universal,Comedy,R,"$37,921,265",4383961
+75,The Big Short,12/11/2015,Paramount Pictures,Drama,R,"$37,204,389",4301085
+76,Risen,2/19/2016,Sony Pictures,Drama,PG-13,"$36,880,033",4263587
+77,Assassin’s Creed,12/21/2016,20th Century Fox,Action,PG-13,"$36,415,167",4209846
+78,The Nice Guys,5/20/2016,Warner Bros.,Black Comedy,R,"$36,261,763",4192111
+79,The Boy,1/22/2016,STX Entertainment,Horror,PG-13,"$35,819,556",4140989
+80,Dirty Grandpa,1/22/2016,Lionsgate,Comedy,R,"$35,593,113",4114810
+81,Ouija: Origin of Evil,10/21/2016,Universal,Horror,PG-13,"$35,144,505",4062948
+82,The 5th Wave,1/22/2016,Sony Pictures,Action,PG-13,"$34,912,982",4036182
+83,La La Land,12/9/2016,Lionsgate,Musical,PG-13,"$34,268,613",3961689
+84,Inferno,10/28/2016,Sony Pictures,Thriller/Suspense,PG-13,"$34,221,651",3956260
+85,Mother’s Day,4/29/2016,Open Road,Romantic Comedy,PG-13,"$32,492,859",3756399
+86,Gods of Egypt,2/26/2016,Lionsgate,Adventure,PG-13,"$31,153,464",3601556
+87,Why Him?,12/23/2016,20th Century Fox,Comedy,R,"$30,633,916",3541493
+88,Alvin and the Chipmunks: The Road Chip,12/18/2015,20th Century Fox,Adventure,PG,"$30,311,560",3504226
+89,"Hail, Caesar!",2/5/2016,Universal,Comedy,PG-13,"$30,080,225",3477482
+90,When the Bough Breaks,9/9/2016,Sony Pictures,Thriller/Suspense,PG-13,"$29,747,603",3439029
+91,Fences,12/16/2016,Paramount Pictures,Drama,PG-13,"$29,743,615",3438568
+92,Zoolander 2,2/12/2016,Paramount Pictures,Comedy,PG-13,"$28,848,693",3335109
+93,Manchester-by-the Sea,11/18/2016,Roadside Attractions,Drama,R,"$28,470,697",3291410
+94,Joy,12/25/2015,20th Century Fox,Drama,PG-13,"$28,141,138",3253310
+95,The Finest Hours,1/29/2016,Walt Disney,Thriller/Suspense,PG,"$27,569,558",3187232
+96,Florence Foster Jenkins,8/12/2016,Paramount Pictures,Drama,PG-13,"$27,383,770",3165753
+97,Hell or High Water,8/12/2016,Lionsgate,Western,R,"$27,007,844",3122294
+98,The Forest,1/8/2016,Focus / Gramercy,Thriller/Suspense,PG-13,"$26,594,261",3074481
+99,Ben-Hur,8/19/2016,Paramount Pictures,Drama,PG-13,"$26,410,477",3053234
+100,The Witch,2/19/2016,A24,Horror,R,"$25,138,705",2906208
+101,The Hateful Eight,12/25/2015,Weinstein Co.,Western,R,"$25,071,561",2898446
+102,Collateral Beauty,12/16/2016,Warner Bros.,Drama,PG-13,"$24,342,478",2814159
+103,Bridget Jones’s Baby,9/16/2016,Universal,Romantic Comedy,R,"$24,139,805",2790728
+104,Kevin Hart: What Now?,10/14/2016,Universal,Concert/Performance,R,"$23,591,043",2727288
+105,Whiskey Tango Foxtrot,3/4/2016,Paramount Pictures,Comedy,R,"$23,083,334",2668593
+106,Snowden,9/16/2016,Open Road,Drama,R,"$21,587,519",2495666
+107,Mechanic: Resurrection,8/26/2016,Lionsgate,Action,R,"$21,218,403",2452994
+108,Free State of Jones,6/24/2016,STX Entertainment,Drama,R,"$20,810,036",2405784
+109,Blair Witch,9/16/2016,Lionsgate,Horror,R,"$20,777,061",2401972
+110,God’s Not Dead 2,4/1/2016,Pure Flix Entertainment,Drama,PG,"$20,773,069",2401510
+111,Keanu,4/29/2016,Warner Bros.,Comedy,R,"$20,591,853",2380561
+112,Middle School: The Worst Years of My Life,10/7/2016,Lionsgate,Adventure,PG,"$20,007,149",2312965
+113,Nine Lives,8/5/2016,EuropaCorp,Adventure,PG,"$19,700,032",2277460
+114,Race,2/19/2016,Focus Features,Drama,PG-13,"$19,115,191",2209848
+115,Brooklyn,11/4/2015,Fox Searchlight,Drama,PG-13,"$18,758,748",2168641
+116,The Choice,2/5/2016,Lionsgate,Drama,PG-13,"$18,730,891",2165420
+117,Eye in the Sky,3/11/2016,Bleecker Street,Thriller/Suspense,R,"$18,704,596",2162381
+118,Spotlight,11/6/2015,Open Road,Drama,R,"$17,946,804",2074775
+119,Bad Santa 2,11/23/2016,Broad Green Pictures,Comedy,R,"$17,725,773",2049222
+120,Masterminds,9/30/2016,Relativity,Comedy,PG-13,"$17,356,894",2006577
+121,Concussion,12/25/2015,Sony Pictures,Drama,PG-13,"$17,111,463",1978203
+122,Norm of the North,1/15/2016,Lionsgate,Adventure,PG,"$17,062,499",1972543
+123,The Birth of a Nation,10/7/2016,Fox Searchlight,Drama,R,"$15,861,566",1833707
+124,Eddie the Eagle,2/26/2016,20th Century Fox,Drama,PG-13,"$15,789,389",1825362
+125,The Infiltrator,7/13/2016,Broad Green Pictures,Thriller/Suspense,R,"$15,436,808",1784602
+126,Keeping Up with the Joneses,10/21/2016,20th Century Fox,Comedy,PG-13,"$14,904,426",1723055
+127,Criminal,4/15/2016,Lionsgate,Action,R,"$14,708,696",1700427
+128,"Hello, My Name is Doris",3/11/2016,Roadside Attractions,Drama,R,"$14,444,999",1669942
+129,The Edge of Seventeen,11/18/2016,STX Entertainment,Drama,R,"$14,406,786",1665524
+130,Love & Friendship,5/13/2016,Roadside Attractions,Drama,PG,"$14,016,568",1620412
+131,Point Break,12/25/2015,Warner Bros.,Action,PG-13,"$13,197,946",1525774
+132,Hillary’s America: The Secret History of the Democratic Party,7/15/2016,Quality Flix,Documentary,PG-13,"$13,099,931",1514442
+133,Triple 9,2/26/2016,Open Road,Thriller/Suspense,R,"$12,639,297",1461190
+134,Moonlight,10/21/2016,A24,Drama,R,"$12,609,768",1457776
+135,The Light Between Oceans,9/2/2016,Walt Disney,Drama,PG-13,"$12,545,979",1450402
+136,Fifty Shades of Black,1/29/2016,Open Road,Comedy,R,"$11,686,940",1351091
+137,No Manches Frida,9/2/2016,Lionsgate,Comedy,PG-13,"$11,528,613",1332787
+138,Café Society,7/15/2016,Lionsgate,Drama,PG-13,"$11,103,205",1283607
+139,Pride and Prejudice and Zombies,2/5/2016,Sony Pictures,Black Comedy,PG-13,"$10,907,291",1260958
+140,The Darkness,5/13/2016,High Top Releasing,Horror,PG-13,"$10,753,574",1243187
+141,Creed,11/25/2015,Warner Bros.,Drama,PG-13,"$10,382,416",1200279
+142,Nocturnal Animals,11/18/2016,Focus Features,Thriller/Suspense,R,"$10,185,257",1177486
+143,The Lady in the Van,1/15/2016,Sony Pictures Classics,Drama,PG-13,"$10,021,175",1158517
+144,Room,10/16/2015,A24,Drama,R,"$9,700,702",1121468
+145,The Perfect Match,3/11/2016,Lionsgate,Romantic Comedy,R,"$9,669,521",1117863
+146,Popstar: Never Stop Never Stopping,6/3/2016,Universal,Comedy,R,"$9,496,130",1097818
+147,Hardcore Henry,4/8/2016,STX Entertainment,Action,R,"$9,252,038",1069599
+148,Dangal,12/21/2016,UTV Communications,Action,Not Rated,"$9,225,794",1066565
+149,The Lobster,5/13/2016,A24,Romantic Comedy,R,"$9,196,278",1063153
+150,Meet the Blacks,4/1/2016,Freestyle Releasing,Comedy,R,"$9,097,072",1051684
+151,The Queen of Katwe,9/23/2016,Walt Disney,Drama,PG,"$8,857,311",1023966
+152,Ratchet and Clank,4/29/2016,Focus Features,Adventure,PG,"$8,813,410",1018891
+153,The Good Dinosaur,11/25/2015,Walt Disney,Adventure,PG,"$8,320,188",961871
+154,The Wild Life,9/9/2016,Lionsgate,Adventure,PG,"$8,005,586",925501
+155,A Beautiful Planet,4/29/2016,Walt Disney,Documentary,G,"$7,895,708",912798
+156,Carol,11/20/2015,Weinstein Co.,Drama,R,"$7,729,016",893527
+157,The Hunger Games: Mockingjay - Part 2,11/20/2015,Lionsgate,Thriller/Suspense,PG-13,"$7,538,507",871503
+158,Loving,11/4/2016,Focus Features,Drama,PG-13,"$7,482,608",865041
+159,Shut In,11/11/2016,EuropaCorp,Thriller/Suspense,R,"$6,897,838",797437
+160,The Brothers Grimsby,3/11/2016,Sony Pictures,Comedy,R,"$6,864,016",793527
+161,The Young Messiah,3/11/2016,Focus Features,Drama,PG-13,"$6,469,813",747955
+162,Jackie,12/2/2016,Fox Searchlight,Drama,R,"$6,469,725",747945
+163,Southside with You,8/26/2016,Roadside Attractions,Drama,PG-13,"$6,304,223",728811
+164,Captain Fantastic,7/8/2016,Bleecker Street,Drama,R,"$5,879,835",679749
+165,Sultan,7/6/2016,Yash Raj Films,Action,Not Rated,"$5,599,781",647373
+166,Lion,11/25/2016,Weinstein Co.,Drama,PG-13,"$5,303,700",613144
+167,Hunt for the Wilderpeople,6/24/2016,The Orchard,Comedy,PG-13,"$5,205,471",601788
+168,Bleed for This,11/18/2016,Open Road,Drama,R,"$5,083,906",587734
+169,The Danish Girl,11/27/2015,Focus Features,Drama,R,"$5,063,669",585395
+170,The Wanderers,7/13/1979,Warner Bros.,Drama,R,"$5,017,811",580093
+171,Incarnate,12/2/2016,High Top Releasing,Thriller/Suspense,PG-13,"$4,799,774",554887
+172,Absolutely Fabulous: The Movie,7/22/2016,Fox Searchlight,Comedy,R,"$4,772,155",551694
+173,Hands of Stone,8/26/2016,Weinstein Co.,Drama,R,"$4,712,792",544831
+174,Don’t Think Twice,7/22/2016,Film Arcade,Comedy,R,"$4,417,983",510749
+175,The Meddler,4/22/2016,Sony Pictures Classics,Comedy,PG-13,"$4,267,219",493320
+176,Ae Dil Hai Mushkil,10/28/2016,FIP,Drama,Not Rated,"$4,264,983",493061
+177,A Hologram for the King,4/22/2016,Roadside Attractions,Drama,R,"$4,212,494",486993
+178,Swiss Army Man,6/24/2016,A24,Drama,R,"$4,210,454",486757
+179,Denial,9/30/2016,Bleecker Street,Drama,PG-13,"$4,073,448",470918
+180,45 Years,12/23/2015,IFC Films,Drama,R,"$4,021,334",464894
+181,Morgan,9/2/2016,20th Century Fox,Thriller/Suspense,R,"$3,915,251",452630
+182,Kabali,7/21/2016,Cinegalaxy,Action,Not Rated,"$3,903,095",451224
+183,The Man Who Knew Infinity,4/29/2016,IFC Films,Drama,PG-13,"$3,877,922",448314
+184,Where to Invade Next,12/23/2015,Drafthouse Films,Documentary,R,"$3,827,261",442457
+185,Max Steel,10/14/2016,Open Road,Action,PG-13,"$3,818,664",441464
+186,Batman: The Killing Joke,7/25/2016,Fathom Events,Action,R,"$3,775,000",436416
+187,Midnight Special,3/18/2016,Warner Bros.,Drama,PG-13,"$3,712,282",429166
+188,Rules Don’t Apply,11/23/2016,20th Century Fox,Romantic Comedy,PG-13,"$3,652,206",422220
+189,Anomalisa,12/30/2015,Paramount Pictures,Adventure,R,"$3,548,654",410249
+190,Miss Sloane,11/25/2016,EuropaCorp,Drama,R,"$3,493,636",403888
+191,Indignation,7/29/2016,Roadside Attractions,Drama,R,"$3,401,155",393197
+192,Everybody Wants Some,3/30/2016,Paramount Pictures,Comedy,R,"$3,400,278",393095
+193,Maggie’s Plan,5/20/2016,Sony Pictures Classics,Comedy,R,"$3,351,735",387483
+194,A Man Called Ove,9/30/2016,Music Box Films,Comedy,PG-13,"$3,336,006",385665
+195,Sing Street,4/15/2016,Weinstein Co.,Musical,PG-13,"$3,237,118",374233
+196,The Mermaid,2/19/2016,Sony Pictures,Romantic Comedy,R,"$3,229,457",373347
+197,Green Room,4/15/2016,A24,Horror,R,"$3,220,371",372297
+198,Our Kind of Traitor,7/1/2016,Roadside Attractions,Thriller/Suspense,R,"$3,153,157",364526
+199,Compadres,4/22/2016,Lionsgate,Comedy,R,"$3,127,773",361592
+200,The Martian,10/2/2015,20th Century Fox,Thriller/Suspense,PG-13,"$3,088,310",357030
+201,The Other Side of the Door,3/4/2016,20th Century Fox,Horror,R,"$3,000,342",346860
+202,Spectre,11/6/2015,Sony Pictures,Action,PG-13,"$2,971,590",343536
+203,Anthropoid,8/12/2016,Bleecker Street,Thriller/Suspense,R,"$2,963,630",342616
+204,"The Beatles: Eight Days a Week, The Touring Years",9/16/2016,Abramorama Films,Documentary,Not Rated,"$2,919,918",337562
+205,2016 Oscar Shorts,1/29/2016,ShortsHD,Multiple Genres,Not Rated,"$2,816,816",325643
+206,Ip Man 3,1/22/2016,Well Go USA,Action,PG-13,"$2,679,437",309761
+207,Miles Ahead,4/1/2016,Sony Pictures Classics,Drama,R,"$2,610,896",301837
+208,Kapoor & Sons,3/18/2016,FIP,Comedy,Not Rated,"$2,607,036",301391
+209,The Disappointments Room,9/9/2016,Relativity,Horror,R,"$2,423,467",280169
+210,Hillsong: Let Hope Rise,9/16/2016,Pure Flix Entertainment,Documentary,PG,"$2,394,725",276846
+211,Dear Life,11/23/2016,Reliance Big Pictures,Drama,Not Rated,"$2,376,479",274737
+212,A Aa,6/1/2016,Bluesky Cinemas,Romantic Comedy,Not Rated,"$2,313,043",267403
+213,Train to Busan,7/22/2016,Well Go USA,Horror,Not Rated,"$2,125,786",245755
+214,The Eagle Huntress,11/2/2016,Sony Pictures Classics,Documentary,G,"$2,089,613",241573
+215,I’m Not Ashamed,10/21/2016,Pure Flix Entertainment,Drama,PG-13,"$2,082,980",240806
+216,A Bigger Splash,5/4/2016,Fox Searchlight,Drama,R,"$2,024,099",233999
+217,The Dressmaker,9/23/2016,Broad Green Pictures,Drama,R,"$2,022,115",233770
+218,Desierto,10/14/2016,STX Entertainment,Thriller/Suspense,R,"$2,002,036",231449
+219,Greater,8/26/2016,Hammond Entertainment,Drama,PG,"$2,000,093",231224
+220,Hidden Figures,12/25/2016,20th Century Fox,Drama,PG,"$1,986,956",229706
+221,Demolition,4/8/2016,Fox Searchlight,Drama,R,"$1,978,592",228738
+222,In the Heart of the Sea,12/11/2015,Warner Bros.,Adventure,PG-13,"$1,957,373",226286
+223,The Peanuts Movie,11/6/2015,20th Century Fox,Adventure,G,"$1,942,827",224604
+224,Shin Godzilla,10/11/2016,FUNimation,Action,Not Rated,"$1,908,028",220581
+225,The Handmaiden,10/21/2016,Magnolia Pictures,Drama,Not Rated,"$1,880,285",217373
+226,Purple Rain,7/27/1984,Warner Bros.,Drama,R,"$1,868,075",215962
+227,M.S. Dhoni: The Untold Story,9/30/2016,FIP,Drama,Not Rated,"$1,801,550",208271
+228,The Met: Live in HD - Manon Lescaut,3/5/2016, ,Concert/Performance,Not Rated,"$1,770,000",204624
+229,Busco Novio Para Mi Mujer,2/19/2016,Lionsgate,Romantic Comedy,PG-13,"$1,741,889",201374
+230,Billy Lynn’s Long Halftime Walk,11/11/2016,Sony Pictures,Drama,R,"$1,738,477",200980
+231,The Harry Potter IMAX Marathon,10/14/2016,Warner Bros.,Adventure,Not Rated,"$1,729,226",199910
+232,Bridge of Spies,10/16/2015,Walt Disney,Thriller/Suspense,PG-13,"$1,703,601",196948
+233,The Met: Live in HD - Madama Butterfly,4/2/2016,Fathom Events,Concert/Performance,Not Rated,"$1,700,900",196635
+234,Fan,4/15/2016,Yash Raj Films,Thriller/Suspense,Not Rated,"$1,689,879",195361
+235,Weiner,5/20/2016,Sundance Selects,Documentary,R,"$1,675,196",193664
+236,I Saw the Light,3/25/2016,Sony Pictures Classics,Drama,R,"$1,646,788",190380
+237,Son of Saul,12/18/2015,Sony Pictures Classics,Drama,R,"$1,618,509",187110
+238,Equity,7/29/2016,Sony Pictures Classics,Drama,R,"$1,605,463",185602
+239,Neerja,2/19/2016,Fox International,Drama,Not Rated,"$1,585,687",183316
+240,Jane Got a Gun,1/29/2016,Weinstein Co.,Western,R,"$1,513,793",175004
+241,Priceless,10/14/2016,Roadside Attractions,Drama,PG-13,"$1,499,605",173364
+242,Youth,12/4/2015,Fox Searchlight,Drama,R,"$1,405,917",162533
+243,Genius,6/10/2016,Roadside Attractions,Drama,PG-13,"$1,361,045",157346
+244,The Neon Demon,6/24/2016,Broad Green Pictures,Horror,R,"$1,333,124",154118
+245,Embrace of the Serpent,2/17/2016,Oscilloscope Pictures,Drama,Not Rated,"$1,329,249",153670
+246,Housefull 3,6/3/2016,Eros Entertainment,Romantic Comedy,Not Rated,"$1,326,999",153410
+247,The Little Prince,2/12/2016,Entertainment One,Adventure,PG,"$1,311,213",151585
+248,Mohenjo Daro,8/12/2016,UTV Communications,Action,Not Rated,"$1,264,339",146166
+249,Krampus,12/4/2015,Universal,Black Comedy,PG-13,"$1,259,765",145637
+250,Hotel Transylvania 2,9/25/2015,Sony Pictures,Adventure,PG,"$1,229,092",142091
+251,Lazer Team,1/27/2016,Rooster Teeth,Comedy,PG-13,"$1,186,426",137159
+252,The Music of Strangers: Yo Yo Man and the Silk Road Ensemble,6/10/2016,The Orchard,Documentary,PG-13,"$1,169,214",135169
+253,Vaxxed: From Cover Up to Catastrophe,4/1/2016,Cinema Libre,Documentary,Not Rated,"$1,163,265",134481
+254,Dough,2/12/2016,Menemsha Entertainment,Comedy,Not Rated,"$1,148,304",132751
+255,Papa: Hemingway in Cuba,4/29/2016,Yari Film Group Releasing,Drama,R,"$1,115,615",128972
+256,Certain Women,10/14/2016,IFC Films,Drama,R,"$1,068,054",123474
+257,The Innocents,7/1/2016,Music Box Films,Drama,PG-13,"$1,065,665",123198
+258,Elvis & Nixon,4/22/2016,Bleecker Street & Amazon Studios,Drama,R,"$1,055,284",121998
+259,Operation Chromite,8/5/2016,CJ Entertainment,Action,Not Rated,"$1,022,720",118233
+260,The Hollars,8/26/2016,Sony Pictures Classics,Drama,PG-13,"$1,016,985",117570
+261,Baar Baar Dekho,9/9/2016,Eros Entertainment,Drama,Not Rated,"$981,947",113519
+262,Dark Horse,5/6/2016,Sony Pictures Classics,Documentary,PG,"$940,715",108753
+263,Goosebumps,10/16/2015,Sony Pictures,Horror,PG,"$936,590",108276
+264,Hubble 3D,3/19/2010,Warner Bros.,Documentary,G,"$923,832",106801
+265,Elle,11/11/2016,Sony Pictures Classics,Drama,R,"$916,450",105947
+266,Gentleman,6/17/2016,Gaatri Media,Thriller/Suspense,Not Rated,"$897,876",103800
+267,Believe,12/2/2016,Smith Global Media,Drama,PG,"$889,328",102812
+268,Rustom,8/12/2016,Independent Indian,Drama,Not Rated,"$880,000",101734
+269,Ki & Ka,4/1/2016,Eros Entertainment,Comedy,Not Rated,"$857,986",99189
+270,Trumbo,11/6/2015,Bleecker Street,Drama,R,"$842,513",97400
+271,Premam,10/6/2016,Bluesky Cinemas,Comedy,Not Rated,"$825,602",95445
+272,Dishoom,7/29/2016,Eros Entertainment,Action,Not Rated,"$812,737",93958
+273,Operation Mekong,9/30/2016,Well Go USA,Action,Not Rated,"$800,012",92486
+274,The Wailing,5/20/2016,Well Go USA,Thriller/Suspense,Not Rated,"$786,633",90940
+275,31,9/1/2016,Saban Films,Horror,R,"$779,820",90152
+276,Chongqing Hot Pot,4/1/2016,China Lion Film Distribution,Comedy,Not Rated,"$776,649",89786
+277,The Polar Express,11/10/2004,Warner Bros.,Adventure,G,"$763,440",88259
+278,Born to Be Blue,3/4/2016,IFC Films,Drama,R,"$755,153",87300
+279,Saturday’s Warrior,4/1/2016,Purdie Distribution,Musical,PG,"$744,046",86016
+280,I Belonged to You,9/30/2016,China Lion Film Distribution,Romantic Comedy,Not Rated,"$743,507",85954
+281,Monkey King 2,2/5/2016,China Lion Film Distribution,Action,Not Rated,"$709,982",82078
+282,Bajirao Mastani,12/18/2015,Eros Entertainment,Drama,Not Rated,"$708,076",81858
+283,Little Men,8/5/2016,Magnolia Pictures,Drama,PG,"$702,537",81218
+284,Chaar Sahibzaade 2: Rise of Banda Singh Bahadur,11/11/2016,Eros Entertainment,Adventure,Not Rated,"$700,723",81008
+285,Mr. Church,9/16/2016,Cinelou Releasing,Drama,PG-13,"$685,780",79280
+286,American Honey,9/30/2016,A24,Drama,R,"$663,247",76675
+287,Mustang,11/20/2015,Cohen Media Group,Drama,PG-13,"$659,328",76222
+288,Born to be Wild 3D,4/8/2011,Warner Bros.,Documentary,G,"$653,620",75563
+289,Jeremy,10/21/2016,Sony Pictures,Comedy,PG-13,"$647,701",74878
+290,Patriots Day,12/21/2016,Lionsgate,Thriller/Suspense,R,"$628,789",72692
+291,The Bronze,3/18/2016,Sony Pictures Classics,Black Comedy,R,"$615,816",71192
+292,Tickled,6/17/2016,Magnolia Pictures,Documentary,R,"$613,956",70977
+293,City of Gold,3/11/2016,IFC Films,Documentary,R,"$608,799",70381
+294,"Lo And Behold, Reveries Of The Connected World",8/19/2016,Magnolia Pictures,Documentary,PG-13,"$594,912",68775
+295,Wazir,1/8/2016,Reliance Entertainment,Thriller/Suspense,Not Rated,"$586,028",67748
+296,Gleason,7/29/2016,Open Road,Documentary,R,"$585,233",67656
+297,Range 15,6/15/2016,Tugg,Comedy,Not Rated,"$575,258",66503
+298,A Tale of Love and Darkness,8/19/2016,Focus World,Drama,PG-13,"$572,212",66151
+299,Tunnel,8/26/2016,Well Go USA,Action,Not Rated,"$568,876",65766
+300,Knight of Cups,3/4/2016,Broad Green Pictures,Drama,R,"$566,006",65434
+301,Cold War 2,7/8/2016,Well Go USA,Action,Not Rated,"$560,824",64835
+302,Harry & Snowman,9/30/2016,FilmRise,Documentary,Not Rated,"$552,614",63886
+303,American Pastoral,10/21/2016,Lionsgate,Drama,R,"$544,098",62901
+304,The Age of Shadows,9/23/2016,CJ Entertainment,Action,Not Rated,"$540,268",62458
+305,Fitoor,2/12/2016,UTV Communications,Drama,Not Rated,"$528,799",61132
+306,The First Monday in May,4/15/2016,Magnolia Pictures,Documentary,PG-13,"$527,474",60979
+307,Unsullied,4/22/2016,Indican Pictures,Thriller/Suspense,R,"$510,957",59070
+308,Marguerite,3/11/2016,Cohen Media Group,Drama,R,"$497,323",57493
+309,The Boy and the Beast,3/4/2016,FUNimation,Adventure,PG-13,"$490,643",56721
+310,Wiener-Dog,6/24/2016,Sundance Selects,Comedy,R,"$470,575",54401
+311,Our Little Sister,7/8/2016,Sony Pictures Classics,Drama,PG,"$467,555",54052
+312,LUCK-KEY,10/21/2016,JBG Pictures,Comedy,Not Rated,"$466,505",53931
+313,Galapagos,10/29/1999,IMAX Films,Documentary,Not Rated,"$463,537",53588
+314,Detective Chinatown,1/15/2016,China Lion Film Distribution,Action,Not Rated,"$459,832",53159
+315,Gimme Danger,10/28/2016,Magnolia Pictures,Documentary,R,"$440,627",50939
+316,The Himalayas,12/18/2015,CJ Entertainment,Adventure,Not Rated,"$439,816",50845
+317,Only Yesterday,1/1/2016,GKIDS,Drama,PG,"$438,271",50667
+318,Baaghi,4/29/2016,UTV Communications,Romantic Comedy,Not Rated,"$438,207",50659
+319,I Am not Madame Bovary,11/18/2016,Well Go USA,Drama,Not Rated,"$435,926",50396
+320,Mad Max: Fury Road,5/15/2015,Warner Bros.,Action,R,"$421,986",48785
+321,Voiceless,10/7/2016,ArtAffects,Drama,PG-13,"$419,952",48549
+322,Embrace,9/19/2016,Gathr Films,Documentary,Not Rated,"$412,340",47669
+323,The Wasted Times,12/16/2016,China Lion Film Distribution,Thriller/Suspense,Not Rated,"$367,278",42459
+324,Mr. Donkey,10/28/2016,China Lion Film Distribution,Comedy,Not Rated,"$356,255",41185
+325,Eat That Question: Frank Zappa in His Own Words,6/24/2016,Sony Pictures Classics,Documentary,R,"$355,074",41049
+326,Happy Bhaag Jayegi,8/19/2016,Eros Entertainment,Romantic Comedy,Not Rated,"$351,840",40675
+327,Kahaani 2,12/2/2016,Eros Entertainment,Thriller/Suspense,Not Rated,"$350,703",40543
+328,High-Rise,5/13/2016,Magnolia Pictures,Thriller/Suspense,R,"$346,472",40054
+329,Mr. Six,12/24/2015,China Lion Film Distribution,Action,Not Rated,"$343,990",39767
+330,Under the Sea 3D,2/13/2009,Warner Bros.,Documentary,G,"$335,961",38839
+331,Te3n,6/10/2016,Reliance Entertainment,Thriller/Suspense,Not Rated,"$331,507",38324
+332,Kaashmora,10/28/2016,Cinegalaxy,Action,Not Rated,"$327,929",37910
+333,The Bounce Back,12/9/2016,Viva Entertainment,Romantic Comedy,PG-13,"$321,910",37215
+334,AmeriGeddon,5/13/2016, ,Action,PG-13,"$316,554",36595
+335,Silence,12/23/2016,Paramount Pictures,Drama,R,"$310,680",35916
+336,Francofonia,4/1/2016,Music Box Films,Drama,Not Rated,"$307,040",35495
+337,Mia madre,8/26/2016,Music Box Films,Drama,R,"$303,002",35029
+338,Christine,10/14/2016,The Orchard,Drama,R,"$297,530",34396
+339,April and the Extraordinary World,3/25/2016,GKIDS,Adventure,PG,"$295,488",34160
+340,Volcano,8/19/2016,Kino Lorber,Drama,Not Rated,"$295,157",34122
+341,The People vs Fritz Bauer,8/19/2016,Cohen Media Group,Drama,R,"$288,434",33344
+342,Aquarius,10/14/2016,Vitagraph Films,Drama,Not Rated,"$285,930",33055
+343,Final Fantasy XV: Kingsglaive,8/19/2016,Stage 6 Films,Adventure,PG-13,"$269,980",31211
+344,My Golden Days,3/18/2016,Magnolia Pictures,Comedy,R,"$269,144",31114
+345,The Rocky Horror Picture Show,9/26/1975,20th Century Fox,Musical,R,"$269,000",31098
+346,The Family Fang,4/29/2016,Starz Media,Comedy,R,"$262,921",30395
+347,Mimimalism: A Documentary About the Important Things,5/24/2016,Asymmetrical,Documentary,Not Rated,"$261,865",30273
+348,"Life, Animated",7/1/2016,The Orchard,Documentary,PG,"$254,738",29449
+349,Dheepan,5/6/2016,Sundance Selects,Drama,R,"$248,795",28762
+350,Things to Come,12/2/2016,IFC Films,Drama,PG-13,"$247,933",28662
+351,Oasis: Supersonic,10/26/2016,A24,Documentary,R,"$242,867",28077
+352,The Invitation,4/8/2016,Drafthouse Films,Thriller/Suspense,Not Rated,"$231,738",26790
+353,Jimmy Vestvood: Amerikan Hero,5/13/2016,A24,Comedy,Not Rated,"$230,069",26597
+354,Miss Hokusai,10/14/2016,GKIDS,Drama,PG-13,"$222,670",25742
+355,Spirit of the Game,10/7/2016,Pure Flix / Samuel Goldwyn Films,Drama,PG,"$222,565",25730
+356,Naam Hai Akira,9/2/2016,FIP,Thriller/Suspense,Not Rated,"$219,401",25364
+357,Island of Lemurs: Madagascar,4/4/2014,Warner Bros.,Documentary,G,"$214,339",24779
+358,Ho Mann Jahaan,1/1/2016,Eros Entertainment,Musical,Not Rated,"$208,611",24116
+359,Southbound,2/5/2016,The Orchard,Horror,R,"$205,048",23704
+360,Macbeth,12/4/2015,Weinstein Co.,Drama,R,"$204,194",23606
+361,Kaptaan,5/20/2016,UTV Communications,Documentary,Not Rated,"$203,790",23559
+362,Julieta,12/21/2016,Sony Pictures Classics,Drama,R,"$203,363",23510
+363,El Clan,3/18/2016,20th Century Fox,Drama,R,"$201,227",23263
+364,White Girl,9/2/2016,FilmRise,Drama,Not Rated,"$200,242",23149
+365,The Intern,9/25/2015,Warner Bros.,Comedy,PG-13,"$189,786",21941
+366,Complete Unknown,8/26/2016,IFC Films,Drama,R,"$187,145",21635
+367,Deep Sea 3-D,3/3/2006,Warner Bros.,Documentary,G,"$185,453",21439
+368,The Masked Saint,1/8/2016,Freestyle Releasing,Action,PG-13,"$182,695",21120
+369,20th Century Women,12/25/2016,A24,Drama,R,"$178,576",20644
+370,The 33,11/13/2015,Warner Bros.,Drama,PG-13,"$178,480",20634
+371,Viva,4/29/2016,Magnolia Pictures,Drama,R,"$178,008",20578
+372,The Wave,3/4/2016,Magnolia Pictures,Action,R,"$177,404",20509
+373,Tampopo,10/21/2016,Janus Films,Comedy,Not Rated,"$177,313",20498
+374,Asura: The City of Madness,10/7/2016,CJ Entertainment,Action,Not Rated,"$174,501",20173
+375,"Hieronymus Bosch, Touched by the Devil",7/27/2016,Kino Lorber,Documentary,Not Rated,"$172,533",19946
+376,Dilwale,12/18/2015,UTV Communications,Romantic Comedy,Not Rated,"$166,631",19263
+377,The Fits,6/3/2016,Oscilloscope Pictures,Drama,Not Rated,"$166,425",19239
+378,De Palma,6/10/2016,A24,Documentary,R,"$165,237",19102
+379,Louder Than Bombs,4/8/2016,The Orchard,Drama,R,"$163,808",18937
+380,The Love Witch,11/11/2016,Oscilloscope Pictures,Comedy,Not Rated,"$160,747",18583
+381,Sunset Song,5/13/2016,Magnolia Pictures,Drama,R,"$159,714",18464
+382,The Witness,6/3/2016,FilmRise,Documentary,Not Rated,"$158,527",18326
+383,Howards End,3/13/1992,Sony Pictures Classics,Drama,PG,"$158,317",18302
+384,Eva Hesse,4/27/2016,Zeitgeist,Documentary,Not Rated,"$157,481",18205
+385,Generation Found,8/29/2016,Gathr Films,Documentary,Not Rated,"$151,751",17543
+386,The Night Before,11/20/2015,Sony Pictures,Comedy,R,"$150,899",17444
+387,Kicks,9/9/2016,Focus World,Adventure,R,"$150,191",17363
+388,Rams,2/3/2016,Cohen Media Group,Drama,R,"$149,250",17254
+389,Michael Moore in TrumpLand,10/19/2016,Self Distributed,Concert/Performance,Not Rated,"$149,090",17235
+390,Touched With Fire,2/12/2016,Roadside Attractions,Drama,R,"$146,487",16934
+391,Seed: The Untold Story,8/22/2016,Collective Eye,Documentary,Not Rated,"$145,001",16763
+392,Krisha,3/18/2016,A24,Drama,R,"$144,822",16742
+393,League of Gods,7/29/2016,Sony Pictures,Action,PG-13,"$143,430",16581
+394,Janis: Little Girl Blue,11/27/2015,FilmRise,Documentary,Not Rated,"$141,679",16379
+395,Neruda,12/16/2016,The Orchard,Drama,R,"$140,451",16237
+396,The Kind Words,6/24/2016,Strand,Drama,Not Rated,"$135,382",15651
+397,Tumbledown,2/12/2016,Starz Digital Media,Romantic Comedy,R,"$135,026",15609
+398,Ism,10/14/2016,Cinegalaxy,Action,Not Rated,"$134,166",15510
+399,Requiem For the American Dream,1/29/2016,Gravitas Ventures,Documentary,Not Rated,"$130,152",15046
+400,Sweet Bean,3/18/2016,Kino Lorber,Drama,Not Rated,"$124,800",14427
+401,Spirits’ Homecoming,3/25/2016,Pan Media & Entertainment,Drama,Not Rated,"$123,704",14301
+402,A War,2/12/2016,Magnolia Pictures,Drama,R,"$122,902",14208
+403,Mojin: The Lost Legend,12/18/2015,China Lion Film Distribution,Adventure,Not Rated,"$121,914",14094
+404,Miss Sharon Jones,7/29/2016,Starz Media,Documentary,Not Rated,"$120,880",13974
+405,Hockney,4/22/2016,Film Movement,Documentary,Not Rated,"$120,745",13958
+406,Three,6/24/2016,Well Go USA,Action,Not Rated,"$119,550",13820
+407,Theeb,11/6/2015,Film Movement,Adventure,Not Rated,"$118,320",13678
+408,Caged No More,1/22/2016,Freestyle Releasing,Thriller/Suspense,PG-13,"$114,959",13290
+409,The Measure of a Man,4/15/2016,Kino Lorber,Drama,Not Rated,"$112,391",12993
+410,The Boy and the World,12/11/2015,GKIDS,Adventure,PG,"$111,899",12936
+411,Elevator to the Gallows,6/10/1961,Rialto Pictures,Drama,Not Rated,"$110,193",12739
+412,Remember the Goal,8/26/2016,Five & Two Pictures,Drama,PG,"$109,815",12695
+413,Seasons,11/11/2016,Music Box Films,Documentary,PG,"$109,755",12688
+414,Zero Days,7/8/2016,Magnolia Pictures,Documentary,PG-13,"$109,649",12676
+415,Love the Coopers,11/13/2015,CBS Films,Comedy,PG-13,"$108,974",12598
+416,Aferim!,1/22/2016,Big World Pictures,Black Comedy,Not Rated,"$108,110",12498
+417,Against the Wild: Survive the Serengeti,2/26/2016,Anchor Bay Entertainment,Adventure,PG,"$107,953",12480
+418,Chimes at Midnight,1/1/2016,Janus Films,Comedy,Not Rated,"$107,766",12458
+419,Yellow Day,9/19/2014,Self Distributed,Adventure,PG,"$107,325",12407
+420,Until Forever,2/12/2016,CanZion Films,Drama,Not Rated,"$106,833",12350
+421,Decalogue,6/9/2000,New Yorker,Drama,Not Rated,"$105,764",12227
+422,Peggy Guggenheim: Art Addict,11/6/2015,Submarine Deluxe,Documentary,Not Rated,"$104,844",12120
+423,Demon,9/9/2016,The Orchard,Horror,R,"$104,039",12027
+424,Puerto Ricans in Paris,6/10/2016,Focus World,Comedy,R,"$102,890",11894
+425,Victor,9/15/2016,CanZion Films,Drama,PG-13,"$102,384",11836
+426,Best Worst Thing That Ever Could Have Happened,11/18/2016,Abramorama Films,Documentary,Not Rated,"$102,233",11818
+427,Tale of Tales,4/22/2016,IFC Films,Drama,R,"$102,186",11813
+428,Cameraperson,9/9/2016,Janus Films,Documentary,Not Rated,"$102,033",11795
+429,Paterson,12/28/2016,Bleecker Street,Comedy,R,"$100,825",11656
+430,Our Last Tango,4/15/2016,Strand,Documentary,Not Rated,"$100,086",11570
+431,Under the Sun (2016),7/6/2016,Icarus Films,Documentary,Not Rated,"$99,436",11495
+432,Rock On 2,11/11/2016,Eros Entertainment,Musical,Not Rated,"$98,868",11429
+433,Tower,10/12/2016,Kino Lorber,Drama,Not Rated,"$98,814",11423
+434,Hitchcock/Truffaut,12/2/2015,Cohen Media Group,Documentary,PG-13,"$98,108",11341
+435,Heart of a Dog,10/21/2015,Abramorama Films,Documentary,Not Rated,"$98,070",11337
+436,Seondal: The Man who Sells the River,7/15/2016,CJ Entertainment,Action,Not Rated,"$97,223",11239
+437,Toni Erdmann,12/25/2016,Sony Pictures Classics,Comedy,R,"$96,893",11201
+438,Never Gone,7/15/2016,China Lion Film Distribution,Drama,Not Rated,"$96,421",11146
+439,Ingrid Bergman - In Her Own Words,11/13/2015,Rialto Pictures,Documentary,Not Rated,"$95,767",11071
+440,Live by Night,12/25/2016,Warner Bros.,Drama,R,"$94,970",10979
+441,Space Station,4/19/2002,IMAX Films,Documentary,Not Rated,"$94,440",10917
+442,New York New York,4/15/2016,China Lion Film Distribution,Drama,Not Rated,"$92,377",10679
+443,Other People,9/9/2016,Self Distributed,Drama,Not Rated,"$91,441",10571
+444,Morris from America,8/19/2016,A24,Drama,R,"$91,151",10537
+445,Fireworks Wednesday,3/16/2016,Grasshopper Film,Drama,Not Rated,"$90,519",10464
+446,No One’s Life Is Easy: So I Married an Anti-Fan,7/1/2016,China Lion Film Distribution,Romantic Comedy,Not Rated,"$89,408",10336
+447,"My Love, Don't Cross That River",6/17/2016,Film Movement,Documentary,Not Rated,"$88,018",10175
+448,Sand Storm,9/28/2016,Kino Lorber,Drama,Not Rated,"$86,800",10034
+449,Author: The JT LeRoy Story,9/9/2016,Magnolia Pictures,Documentary,R,"$85,999",9942
+450,Los sures,4/15/2016,Oscilloscope Pictures,Documentary,Not Rated,"$83,992",9710
+451,Mountains May Depart,2/12/2016,Kino Lorber,Drama,Not Rated,"$82,913",9585
+452,Cock and Bull,9/16/2016,China Lion Film Distribution,Comedy,Not Rated,"$82,778",9569
+453,A Street Cat Named Bob,11/18/2016,Cleopatra Films,Drama,Not Rated,"$82,703",9561
+454,Vita Activa: The Spirit of Hannah Arendt,4/6/2016,Zeitgeist,Documentary,Not Rated,"$82,143",9496
+455,For the Love of Spock,9/9/2016,Gravitas Ventures,Documentary,Not Rated,"$80,141",9264
+456,Sky on Fire,12/2/2016,Well Go USA,Action,Not Rated,"$78,377",9060
+457,Colliding Dreams,3/4/2016,International Film Circuit,Documentary,Not Rated,"$78,288",9050
+458,My Best Friend’s Wedding,8/12/2016,Sony Pictures,Romantic Comedy,PG,"$77,043",8906
+459,Saala Khadoos,1/29/2016,UTV Communications,Drama,Not Rated,"$76,931",8893
+460,Don’t Blink: Robert Frank,7/13/2016,Grasshopper Film,Documentary,Not Rated,"$76,134",8801
+461,The Brand New Testament,12/9/2016,Music Box Films,Comedy,Not Rated,"$75,928",8777
+462,Sword Master,12/9/2016,Well Go USA,Action,Not Rated,"$75,526",8731
+463,King Cobra,10/21/2016,IFC Midnight,Drama,PG-13,"$74,712",8637
+464,Les Cowboys,6/24/2016,Cohen Media Group,Western,R,"$73,725",8523
+465,Raiders! The Story of the Greatest Fan Film Ever Made,6/17/2016,Drafthouse Films,Documentary,Not Rated,"$71,916",8313
+466,The Congressman,4/29/2016,Shadow,Drama,R,"$71,451",8260
+467,Do Not Resist,9/30/2016,Vanish Films,Documentary,Not Rated,"$71,195",8230
+468,Norman Lear: Just Another Version of You,7/8/2016,Music Box Films,Documentary,Not Rated,"$70,950",8202
+469,The Messenger,12/4/2015,Alive Mind,Documentary,Not Rated,"$67,816",7840
+470,Phantom Detective,5/13/2016,CJ Entertainment,Action,Not Rated,"$67,054",7751
+471,Max Rose,9/2/2016,Paladin,Drama,Not Rated,"$66,880",7731
+472,Devil and Angel,12/31/2015,China Lion Film Distribution,Comedy,Not Rated,"$66,588",7698
+473,Maze Runner: The Scorch Trials,9/18/2015,20th Century Fox,Thriller/Suspense,PG-13,"$66,490",7686
+474,Fire at Sea,10/21/2016,Kino Lorber,Documentary,Not Rated,"$66,419",7678
+475,Em La Ba Noi Cua Anh,3/11/2016,CJ Entertainment,Comedy,Not Rated,"$65,718",7597
+476,Sicario,9/18/2015,Lionsgate,Thriller/Suspense,R,"$65,326",7552
+477,Microbe and Gasoline,7/1/2016,Screen Media Films,Comedy,R,"$63,802",7375
+478,Trapped,3/4/2016,Abramorama Films,Documentary,Not Rated,"$63,240",7310
+479,The Tenth Man (2016),7/29/2016,Kino Lorber,Comedy,Not Rated,"$63,201",7306
+480,Creative Control,3/11/2016,Magnolia Pictures,Drama,R,"$63,014",7284
+481,Dancer,9/9/2016,IFC Films,Documentary,Not Rated,"$62,578",7234
+482,The Dark Horse,4/1/2016,Broad Green Pictures,Drama,R,"$61,505",7110
+483,Secret in Their Eyes,11/20/2015,STX Entertainment,Thriller/Suspense,PG-13,"$61,121",7066
+484,Daughters of the Dust (Re-Issue),11/18/2016,Cohen Media Group,Drama,Not Rated,"$60,897",7040
+485,Too Late,3/18/2016,Vanishing Angle Films,Drama,Not Rated,"$60,438",6987
+486,Girl Asleep,9/23/2016,Oscilloscope Pictures,Drama,Not Rated,"$60,289",6969
+487,Presenting Princess Shaw,5/27/2016,Magnolia Pictures,Documentary,Not Rated,"$60,197",6959
+488,Time Renegades,4/15/2016,CJ Entertainment,Action,Not Rated,"$58,689",6784
+489,Command and Control,9/14/2016,PBS Distribution,Documentary,Not Rated,"$57,635",6663
+490,The Daughter,7/1/2016,Mongrel Media,Drama,Not Rated,"$57,502",6647
+491,The Fallen Idol,2/10/2006,Rialto Pictures,Thriller/Suspense,Not Rated,"$56,822",6569
+492,Wedding Doll,4/15/2016,Strand,Drama,Not Rated,"$56,196",6496
+493,DONGJU; The Portrait of A Poet,2/17/2016,Megabox Plus M,Drama,Not Rated,"$56,184",6495
+494,The Wait,4/29/2016,Oscilloscope Pictures,Drama,Not Rated,"$55,804",6451
+495,The Lovers And The Despot,9/23/2016,Magnolia Pictures,Documentary,Not Rated,"$55,511",6417
+496,Regression,2/5/2016,Weinstein Co.,Thriller/Suspense,R,"$55,039",6362
+497,Clown,6/17/2016,Dimension Pictures,Horror,R,"$55,007",6359
+498,Burnt,10/30/2015,Weinstein Co.,Comedy,R,"$54,991",6357
+499,My King,8/12/2016,Film Movement,Drama,Not Rated,"$54,114",6255
+500,In a Valley of Violence,10/21/2016,Focus World,Western,R,"$53,647",6201
+501,Diary of a Chambermaid,6/10/2016,Cohen Media Group,Drama,Not Rated,"$53,581",6194
+502,High Strung,4/8/2016,Paladin,Drama,PG,"$53,447",6178
+503,Journey to the South Pacific,11/27/2013,MacGillivray Freeman Films,Documentary,G,"$53,171",6146
+504,The Club,2/5/2016,Music Box Films,Drama,Not Rated,"$52,761",6099
+505,Being 17,10/7/2016,Strand,Drama,Not Rated,"$52,713",6093
+506,The Last Man on the Moon,2/26/2016,Gravitas Ventures,Documentary,Not Rated,"$52,482",6067
+507,Grandma,8/21/2015,Sony Pictures Classics,Comedy,R,"$52,304",6046
+508,Cemetery of Splendor,3/4/2016,Strand,Drama,Not Rated,"$51,950",6005
+509,My Annoying Brother,12/9/2016,CJ Entertainment,Drama,Not Rated,"$51,772",5985
+510,Chi-raq,12/4/2015,Amazon Studios/Roadside Attractions,Drama,R,"$51,701",5976
+511,King Georges,2/26/2016,IFC Films,Documentary,Not Rated,"$51,663",5972
+512,Like for Likes,2/26/2016,CJ Entertainment,Romantic Comedy,Not Rated,"$50,839",5877
+513,In the Shadow of Women,1/15/2016,Distrib Films,Drama,Not Rated,"$50,291",5813
+514,The Take,11/18/2016,High Top Releasing,Action,R,"$50,269",5811
+515,In Order of Disappearance,8/26/2016,Magnolia Pictures,Action,R,"$50,255",5809
+516,Fatima,8/26/2016,Kino Lorber,Drama,Not Rated,"$50,105",5792
+517,Pele: Birth of a Legend,5/13/2016,IFC Films,Drama,PG,"$49,979",5777
+518,Mifune: The Last Samurai,11/25/2016,Strand,Documentary,Not Rated,"$49,438",5715
+519,The Treasure,1/8/2016,IFC Films,Comedy,Not Rated,"$48,508",5607
+520,Ma Ma,5/20/2016,Oscilloscope Pictures,Drama,R,"$47,258",5463
+521,To the Arctic 3D,4/20/2012,Warner Bros.,Documentary,G,"$46,545",5381
+522,We are X,10/21/2016,Drafthouse Films,Documentary,R,"$45,270",5233
+523,Remember,10/16/2015,Entertainment One,Thriller/Suspense,R,"$45,078",5211
+524,Nuts!,6/22/2016,Life Sentence Films/m Tuckman Media,Documentary,Not Rated,"$44,230",5113
+525,The Greasy Strangler,10/7/2016,FilmRise,Thriller/Suspense,Not Rated,"$44,228",5113
+526,Danny Says,9/30/2016,Magnolia Pictures,Documentary,Not Rated,"$44,213",5111
+527,The Land,7/29/2016,IFC Films,Drama,R,"$43,756",5058
+528,Mastizaade,1/29/2016,Eros Entertainment,Comedy,Not Rated,"$43,403",5017
+529,The Battle of Algiers,1/9/2004,Rialto Pictures,Drama,Not Rated,"$43,204",4994
+530,Disorder,8/12/2016,IFC Films,Thriller/Suspense,Not Rated,"$42,956",4966
+531,Closet Monster,9/23/2016,Strand,Drama,Not Rated,"$42,166",4874
+532,A Melody to Remember,1/29/2016,CJ Entertainment,Drama,Not Rated,"$41,845",4837
+533,Wild Oats,9/16/2016,Weinstein Co.,Comedy,PG-13,"$40,598",4693
+534,Is That a Gun in Your Pocket?,9/16/2016,Area 23a,Comedy,R,"$39,928",4615
+535,The Night,9/14/2016,Rialto Pictures,Drama,Not Rated,"$39,236",4535
+536,Catching the Sun,4/1/2016,The Film Collaborative ,Documentary,Not Rated,"$38,613",4463
+537,Spa Night,8/19/2016,Strand,Drama,Not Rated,"$38,578",4459
+538,Germans and Jews,6/10/2016,First Run Features,Documentary,Not Rated,"$38,100",4404
+539,Come What May,9/9/2016,Cohen Media Group,Drama,R,"$37,858",4376
+540,Restored Me,6/6/2016,Gathr Films,Drama,Not Rated,"$36,633",4235
+541,How to Let Go of the World and Love All The Things Climate Can”t Change,4/20/2016,International WOW,Documentary,Not Rated,"$36,386",4206
+542,Summertime,7/22/2016,Strand,Drama,Not Rated,"$35,322",4083
+543,Songs My Brothers Taught Me,3/2/2016,Kino Lorber,Drama,Not Rated,"$34,793",4022
+544,Mr. Right,4/8/2016,Focus World,Romantic Comedy,R,"$34,694",4010
+545,The Homeless Billionaire,6/17/2016,Hannover House,Romantic Comedy,PG-13,"$34,563",3995
+546,Phantom Boy,7/15/2016,GKIDS,Adventure,PG,"$34,361",3972
+547,Eisenstein In Guanajuato,2/5/2016,Strand,Drama,Not Rated,"$34,282",3963
+548,Off the Rails,11/4/2016,The Film Collaborative ,Documentary,Not Rated,"$34,249",3959
+549,Last Cab to Darwin,6/10/2016,First Run Features,Drama,Not Rated,"$34,193",3952
+550,Suffragette,10/23/2015,Focus Features,Drama,PG-13,"$33,817",3909
+551,Equals,7/15/2016,A24,Drama,PG-13,"$33,258",3844
+552,Multiple Maniacs,8/5/2016,Janus Films,Comedy,NC-17,"$33,036",3819
+553,The Intervention,8/26/2016,Samuel Goldwyn Films,Drama,R,"$32,919",3805
+554,The Map Against the World,9/9/2016,CJ Entertainment,Drama,Not Rated,"$32,893",3802
+555,Monster Hunt,1/22/2016,FilmRise,Adventure,Not Rated,"$32,766",3787
+556,Rio I Love You,4/15/2016,Screen Media Films,Romantic Comedy,R,"$31,982",3697
+557,Sweet Sixteen,8/17/2016,China Lion Film Distribution,Drama,Not Rated,"$31,538",3646
+558,As I Open My Eyes,9/9/2016,Kino Lorber,Drama,Not Rated,"$30,989",3582
+559,Pan,10/9/2015,Warner Bros.,Adventure,PG,"$30,863",3568
+560,River of Fundament,12/4/2015,International Film Circuit,Drama,Not Rated,"$30,859",3567
+561,Labyrinth of Lies,9/30/2015,Sony Pictures Classics,Drama,R,"$30,716",3550
+562,Jafar Panahi’s Taxi,10/2/2015,Kino Lorber,Documentary,Not Rated,"$30,554",3532
+563,Being Charlie,5/6/2016,Paladin,Drama,R,"$30,400",3514
+564,Men & Chicken,4/22/2016,Drafthouse Films,Black Comedy,Not Rated,"$30,207",3492
+565,From Afar,6/8/2016,Strand,Drama,Not Rated,"$30,169",3487
+566,For a Few Bullets,7/22/2016,China Lion Film Distribution,Western,Not Rated,"$30,142",3484
+567,Therapy For A Vampire,6/10/2016,Music Box Films,Comedy,Not Rated,"$30,115",3481
+568,"Kill Me, Deadly",4/1/2016,Indican Pictures,Multiple Genres,Not Rated,"$30,091",3478
+569,The Best Democracy Money Can Buy,9/23/2016,Cinema Libre,Documentary,Not Rated,"$29,500",3410
+570,Troublemakers: The Story of Land Art,1/8/2016,First Run Features,Documentary,Not Rated,"$29,462",3406
+571,The Seventh Fire,7/22/2016,Film Movement,Documentary,Not Rated,"$29,361",3394
+572,The Unknowns,5/23/2016,Gathr Films,Documentary,Not Rated,"$29,284",3385
+573,3 Weeks in Yerevan,9/16/2016,Richmond Media Entertainment,Comedy,Not Rated,"$29,245",3380
+574,Time to Choose,6/3/2016,Abramorama Films,Documentary,Not Rated,"$29,233",3379
+575,Under the Shadow,10/7/2016,Vertical Entertainment,Horror,PG-13,"$28,884",3339
+576,Valley of Love,3/25/2016,Strand,Drama,Not Rated,"$28,648",3311
+577,"Look At Us Now, Mother!",4/11/2015, , ,Not Rated,"$28,463",3290
+578,"Rabin, The Last Day",1/29/2016,Kino Lorber,Drama,Not Rated,"$28,411",3284
+579,Paths of the Soul,5/13/2016,Icarus Films,Documentary,Not Rated,"$28,184",3258
+580,Bikes vs Cars,12/4/2015,Kino Lorber,Documentary,Not Rated,"$28,072",3245
+581,Take Me to the River,3/18/2016,Film Movement,Drama,Not Rated,"$28,041",3241
+582,"Rabin, in His Own Words",5/6/2016,Menemsha Entertainment,Documentary,Not Rated,"$27,941",3230
+583,Kaili Blues,5/20/2016,Grasshopper Film,Drama,Not Rated,"$27,477",3176
+584,Unlocking the Cage,5/25/2016,First Run Features,Documentary,Not Rated,"$27,284",3154
+585,The Eyes of My Mother,12/2/2016,Magnolia Pictures,Horror,R,"$27,099",3132
+586,Blackway,6/10/2016,Electric Entertainment,Thriller/Suspense,R,"$27,079",3130
+587,Anesthesia,1/8/2016,IFC Films,Drama,R,"$26,799",3098
+588,Neon Bull,4/8/2016,Kino Lorber,Drama,Not Rated,"$26,755",3093
+589,Front Cover,8/5/2016,Strand,Drama,Not Rated,"$26,409",3053
+590,Standing Tall,3/11/2016,Cohen Media Group,Drama,R,"$26,144",3022
+591,Cosmos,6/17/2016,Kino Lorber,Drama,Not Rated,"$25,856",2989
+592,The Dog Wedding,3/11/2016,25th Frame,Romantic Comedy,PG-13,"$25,855",2989
+593,The Last Princess,9/9/2016,CJ Entertainment,Drama,Not Rated,"$25,753",2977
+594,Chevalier,5/27/2016,Strand,Comedy,Not Rated,"$25,696",2970
+595,Kate Plays Christine,8/26/2016,Grasshopper Film,Documentary,Not Rated,"$25,564",2955
+596,The New Year's Eve of Old Lee,2/12/2016,China Lion Film Distribution,Comedy,Not Rated,"$25,358",2931
+597,Disturbing the Peace (Re-issue),11/11/2016,Abramorama Films,Documentary,Not Rated,"$25,287",2923
+598,Sold,4/1/2016,Matson,Drama,PG-13,"$25,223",2915
+599,Banjo,9/23/2016,Eros Entertainment,Action,Not Rated,"$25,140",2906
+600,A Monster with a Thousand Heads,5/13/2016,Music Box Films,Thriller/Suspense,Not Rated,"$24,852",2873
+601,Truth,10/16/2015,Sony Pictures Classics,Thriller/Suspense,R,"$24,609",2844
+602,Sudden Fear,8/12/2016,Cohen Media Group,Thriller/Suspense,Not Rated,"$24,476",2829
+603,"Right Now, Wrong Then",6/24/2016,Grasshopper Film,Romantic Comedy,Not Rated,"$24,470",2828
+604,Lolo,3/11/2016,FilmRise,Romantic Comedy,Not Rated,"$24,134",2790
+605,No Home Movie,4/1/2016,Icarus Films,Documentary,Not Rated,"$24,132",2789
+606,Evolution,11/25/2016,IFC Midnight,Horror,Not Rated,"$23,538",2721
+607,Project Itoh - Harmony,5/20/2016,FUNimation,Action,Not Rated,"$23,248",2687
+608,Gridiron Heroes,4/15/2016,Indican Pictures,Documentary,Not Rated,"$23,237",2686
+609,Angry Indian Goddess,8/5/2016,Mongrel Media,Comedy,Not Rated,"$23,192",2681
+610,Kamikaze 89,6/3/2016,Film Movement,Thriller/Suspense,Not Rated,"$22,440",2594
+611,Generation Startup,9/23/2016,Long Shot Factory,Documentary,Not Rated,"$22,271",2574
+612,Sanam Teri Kasam,2/5/2016,Eros Entertainment,Drama,Not Rated,"$22,121",2557
+613,The Black Dove,8/12/2016,Indican Pictures,Comedy,Not Rated,"$21,900",2531
+614,The Winding Steam,12/16/2015,Argot Pictures,Documentary,Not Rated,"$21,683",2506
+615,Blue Jay,10/7/2016,The Orchard,Drama,Not Rated,"$21,626",2500
+616,Thank You For Your Service,10/7/2016,Gathr Films,Documentary,Not Rated,"$21,497",2485
+617,Term Life,4/29/2016,Focus World,Drama,R,"$21,256",2457
+618,Almost Holy,5/20/2016,The Orchard,Documentary,R,"$21,142",2444
+619,Nightlights,8/15/2014,Indican Pictures, ,Not Rated,"$20,988",2426
+620,Legend,11/20/2015,Universal,Thriller/Suspense,R,"$20,870",2412
+621,Band of Robbers,1/15/2016,Gravitas Ventures,Adventure,Not Rated,"$20,555",2376
+622,Sea of Trees,8/26/2016,A24,Drama,PG-13,"$20,444",2363
+623,Love Me True,8/12/2016,Indican Pictures,Romantic Comedy,Not Rated,"$20,100",2323
+624,"No Pay, Nudity",11/11/2016,Monterey Media,Drama,R,"$20,017",2314
+625,This Last Lonely Place,8/12/2016,Indican Pictures,Thriller/Suspense,Not Rated,"$19,993",2311
+626,Art Bastard,6/3/2016,CAVU Releasing,Documentary,Not Rated,"$19,600",2265
+627,Unless,10/14/2016,Mongrel Media,Drama,Not Rated,"$19,120",2210
+628,Revelation: Dawn of Global Government,4/15/2016,Rocky Mountain Pictures,Documentary,PG,"$19,107",2208
+629,Ktown Cowboys,3/18/2016,Freestyle Releasing,Documentary,R,"$18,863",2180
+630,Search Engines,10/14/2016,Indican Pictures,Comedy,Not Rated,"$18,851",2179
+631,Never,8/19/2016,Indican Pictures,Drama,Not Rated,"$18,810",2174
+632,Seoul Searching,6/17/2016,Mondo Paradiso Films,Comedy,Not Rated,"$18,654",2156
+633,In Jackson Heights,11/4/2015,Zipporah,Documentary,Not Rated,"$18,619",2152
+634,The Channel,4/8/2016,Indican Pictures,Horror,Not Rated,"$18,319",2117
+635,Peter and the Farm,11/4/2016,Magnolia Pictures,Documentary,Not Rated,"$18,123",2095
+636,A Bit of Bad Luck,5/13/2016,Indican Pictures,Comedy,Not Rated,"$18,089",2091
+637,Wildflower,10/20/2016,CanZion Films,Drama,PG-13,"$18,062",2088
+638,Holy Hell,5/27/2016,WRA Productions LLC,Documentary,Not Rated,"$18,051",2086
+639,The Romans,5/27/2016,Indican Pictures,Drama,Not Rated,"$18,016",2082
+640,I Knew Her Well,2/5/2016,Janus Films,Documentary,Not Rated,"$18,010",2082
+641,Men go to Battle,7/8/2016,Film Movement,Drama,Not Rated,"$18,006",2081
+642,How He Fell in Love,7/8/2016,Monument Releasing,Drama,Not Rated,"$17,575",2031
+643,Streit's: Matzo and the American Dream,4/20/2016,Menemsha Entertainment,Documentary,Not Rated,"$17,506",2023
+644,New World Order,9/23/2016,Indican Pictures,Action,Not Rated,"$17,345",2005
+645,Landfill Harmonic,9/9/2016,The Film Collaborative ,Documentary,Not Rated,"$17,205",1989
+646,Sembene!,11/13/2015,Kino Lorber,Documentary,Not Rated,"$17,114",1978
+647,The Lion in Winter,10/30/1968, ,Drama,PG,"$17,024",1968
+648,The Seasons in Quincy: Four Portraits of John Berger,8/31/2016,Icarus Films,Documentary,Not Rated,"$16,738",1935
+649,Tharlo,9/28/2016,Icarus Films,Drama,Not Rated,"$16,522",1910
+650,Always Shine,11/25/2016,Oscilloscope Pictures,Thriller/Suspense,Not Rated,"$16,140",1865
+651,Colonia,4/15/2016,Screen Media Films,Thriller/Suspense,R,"$15,709",1816
+652,The Other Half,12/2/2016,Mongrel Media,Drama,Not Rated,"$15,643",1808
+653,Entertainment,11/13/2015,Magnolia Pictures,Drama,R,"$15,642",1808
+654,Five Nights in Maine,8/5/2016,FilmRise,Drama,Not Rated,"$15,587",1801
+655,Starcrossed,5/13/2016,Indican Pictures,Drama,Not Rated,"$15,263",1764
+656,Of Mind and Music,2/12/2016,Monterey Media,Drama,PG-13,"$15,083",1743
+657,It’s Already Tomorrow in Hong Kong,2/12/2016,Gravitas Ventures,Romantic Comedy,Not Rated,"$14,966",1730
+658,The Letters,12/4/2015,Freestyle Releasing,Drama,PG,"$14,952",1728
+659,Argentina,6/17/2016,First Run Features,Documentary,Not Rated,"$14,869",1718
+660,Lamb,1/8/2016,The Orchard,Drama,R,"$14,547",1681
+661,The Uncondemned,10/21/2016,Abramorama Films,Documentary,Not Rated,"$14,393",1663
+662,The Fiancé,11/11/2016,Indican Pictures,Horror,Not Rated,"$14,120",1632
+663,Newtown,10/7/2016,Abramorama Films,Documentary,Not Rated,"$14,109",1631
+664,A Space Program,3/18/2016,Zeitgeist,Documentary,Not Rated,"$13,739",1588
+665,Woodlawn,10/16/2015,Pure Flix Entertainment,Drama,PG,"$13,498",1560
+666,Tikkun,6/10/2016,Kino Lorber,Drama,Not Rated,"$13,358",1544
+667,Late Spring,3/4/2016,Janus Films,Drama,Not Rated,"$13,254",1532
+668,The Adderall Diaries,4/15/2016,A24,Drama,R,"$13,191",1524
+669,Censored Voices,11/20/2015,Music Box Films,Documentary,Not Rated,"$13,029",1506
+670,Neither Heaven Nor Earth,8/5/2016,Film Movement,Multiple Genres,Not Rated,"$12,810",1480
+671,The Monster,11/11/2016,A24,Horror,R,"$12,544",1450
+672,City of Women,2/19/2016,Cohen Media Group,Comedy,R,"$12,516",1446
+673,The Ones Below,5/27/2016,Magnolia Pictures,Thriller/Suspense,R,"$12,488",1443
+674,"Kiki, Love to Love",11/11/2016,Strand,Romantic Comedy,Not Rated,"$12,450",1439
+675,Elstree 1976,5/6/2016,FilmRise,Documentary,Not Rated,"$12,173",1407
+676,Fritz Lang’s Destiny,5/20/2016,Kino Lorber,Thriller/Suspense,Not Rated,"$12,156",1405
+677,Hot Water,5/5/2016,Indican Pictures,Documentary,Not Rated,"$12,101",1398
+678,When Two Worlds Collide,8/17/2016,First Run Features,Documentary,Not Rated,"$12,080",1396
+679,A Reason,8/28/2015,Indican Pictures,Drama,Not Rated,"$11,829",1367
+680,Remember You,1/15/2016,CJ Entertainment,Drama,Not Rated,"$11,800",1364
+681,History of Jazz: Oxygen for the Ears,8/31/2013,Indican Pictures,Documentary,Not Rated,"$11,755",1358
+682,Lucha Mexico,7/15/2016,Kino Lorber,Documentary,Not Rated,"$11,722",1355
+683,Don’t Call Me Son,11/2/2016,Zeitgeist,Drama,Not Rated,"$11,678",1350
+684,The Ruins of Lifta,9/23/2016,First Run Features,Documentary,Not Rated,"$11,548",1335
+685,Harry Benson: Shoot First,12/9/2016,Magnolia Pictures,Documentary,Not Rated,"$11,398",1317
+686,Viktoria,4/29/2016,Big World Pictures,Drama,Not Rated,"$11,314",1307
+687,Theo Who Lived,9/30/2016,Zeitgeist,Documentary,Not Rated,"$11,271",1303
+688,Anonymous,12/2/2016,Archstone Entertainment,Drama,R,"$11,239",1299
+689,A Matter of Faith,10/17/2014,Five & Two Pictures,Drama,PG,"$10,556",1220
+690,National Bird,11/11/2016,FilmRise,Documentary,Not Rated,"$10,470",1210
+691,Serial Killer 1,6/17/2016,Kino Lorber,Drama,Not Rated,"$10,330",1194
+692,Flowers,10/30/2015,Music Box Films,Drama,Not Rated,"$10,330",1194
+693,Approaching the Unknown,6/3/2016,Vertical Entertainment,Drama,R,"$10,232",1182
+694,Beta Test,7/22/2016,Mirror Images Ltd,Action,Not Rated,"$10,104",1168
+695,River of Grass,3/11/2016,Oscilloscope Pictures,Drama,Not Rated,"$10,070",1164
+696,Into the Forest,7/29/2016,A24,Drama,R,"$9,995",1155
+697,Yosemite,1/1/2016,Monterey Media,Drama,R,"$9,470",1094
+698,An Eye for Beauty,4/15/2016,Monument Releasing,Drama,Not Rated,"$9,395",1086
+699,What Happened Last Night,11/4/2016,Gemelli Productions,Comedy,R,"$9,244",1068
+700,Frank & Lola,12/9/2016,Paladin,Drama,Not Rated,"$9,188",1062
+701,Made in France,9/23/2016,Under the Milky Way,Thriller/Suspense,Not Rated,"$9,117",1053
+702,Ocean Waves,12/28/2016,GKIDS,Drama,PG-13,"$9,089",1050
+703,Chronic,9/23/2016,Monument Releasing,Drama,R,"$9,033",1044
+704,The Last King,6/17/2016,Magnet Pictures,Action,R,"$8,905",1029
+705,Reparation,9/4/2016,Red Dirt Pictures,Drama,Not Rated,"$8,752",1011
+706,Providence,2/12/2016,Main Street,Drama,Not Rated,"$8,556",989
+707,Butterfly Girl,2/27/2015,Indican Pictures,Documentary,Not Rated,"$8,547",988
+708,We Are Twisted F***ing Sister!,2/15/2016,Music Box Films,Documentary,Not Rated,"$8,277",956
+709,The Olivia Experiment,8/22/2014,Indican Pictures,Comedy,Not Rated,"$8,256",954
+710,Silicon Cowboys,9/16/2016,FilmRise,Documentary,Not Rated,"$8,239",952
+711,Golden Kingdom,6/17/2016,Kino Lorber,Drama,Not Rated,"$8,077",933
+712,The Other Side (2015),5/20/2016,Film Movement,Documentary,PG,"$8,074",933
+713,Talent Has Hunger,3/11/2016,First Run Features,Documentary,Not Rated,"$7,998",924
+714,Portrait of a Garden,10/26/2016,Grasshopper Film,Documentary,Not Rated,"$7,914",914
+715,Coming Up Roses,11/9/2012,Dada Films,Drama,Not Rated,"$7,732",893
+716,The Lost Arcade,8/12/2016,26 Aries,Documentary,Not Rated,"$7,500",867
+717,Tab Hunter Confidential,10/15/2015, ,Documentary,Not Rated,"$7,489",865
+718,Old Stone,11/30/2016,Zeitgeist,Thriller/Suspense,Not Rated,"$7,476",864
+719,Indian Point,7/8/2016,First Run Features,Documentary,Not Rated,"$7,251",838
+720,The Pearl Button,10/23/2015,Kino Lorber,Documentary,Not Rated,"$7,237",836
+721,The Preppie Connection,3/18/2016,IFC Films,Drama,R,"$7,138",825
+722,Rosenwald,8/14/2015,The Ciesla Foundation,Documentary,Not Rated,"$7,033",813
+723,The Brainwashing of My Dad,3/18/2016,JSenko Productions,Documentary,Not Rated,"$7,028",812
+724,Magnus,11/18/2016,FilmRise,Documentary,Not Rated,"$6,921",800
+725,Boom Bust Boom,3/11/2016,Brainstorm Media,Documentary,Not Rated,"$6,896",797
+726,Behind the White Glasses: Portrait of Lina Wertmuller,3/4/2016,Parade Deck Films,Documentary,Not Rated,"$6,840",790
+727,Mad Tiger,3/18/2016,Film Movement,Documentary,Not Rated,"$6,823",788
+728,The Dying of the Light,4/7/2016,First Run Features,Documentary,Not Rated,"$6,627",766
+729,Spices of Liberty,10/24/2016,Hannover House,Drama,PG,"$6,625",765
+730,Gone Doggy Gone,6/26/2015,Indican Pictures,Comedy,Not Rated,"$6,609",764
+731,"Ugly, Dirty and Bad",10/21/2016,Film Movement,Drama,Not Rated,"$6,590",761
+732,The Charnel House,11/4/2016,Freestyle Releasing,Thriller/Suspense,R,"$6,332",732
+733,Ghost Team,8/12/2016,The Orchard,Comedy,PG-13,"$6,245",721
+734,Slash,12/9/2016,Gravitas Ventures,Comedy,Not Rated,"$5,902",682
+735,Undrafted,7/15/2016,Vertical Entertainment,Comedy,Not Rated,"$5,777",667
+736,Tanna,9/16/2016,Lightyear Entertainment,Drama,Not Rated,"$5,711",660
+737,Klown Forever,9/2/2016,Drafthouse Films,Comedy,Not Rated,"$5,700",658
+738,It Had to be You,10/21/2016,Samuel Goldwyn Films,Romantic Comedy,R,"$5,302",612
+739,The Carer,9/9/2016,Corinth Films ,Drama,Not Rated,"$5,102",589
+740,A Perfect Day,1/15/2016,IFC Films,Drama,R,"$5,002",578
+741,Call Her Applebroog,6/10/2016,Zeitgeist,Documentary,Not Rated,"$4,842",559
+742,Roseanne for President!,7/1/2016,IFC Films,Documentary,Not Rated,"$4,734",547
+743,Marinoni: The Fire in the Frame,4/1/2016,First Run Features,Documentary,Not Rated,"$4,696",542
+744,Blood on the Mountain,11/18/2016,Abramorama Films,Documentary,Not Rated,"$4,664",539
+745,Sworn Virgin,4/22/2016,Strand,Drama,Not Rated,"$4,636",535
+746,Miss Stevens,9/16/2016,The Orchard,Comedy,Not Rated,"$4,611",533
+747,The Automatic Hate,3/11/2016,Film Movement,Drama,Not Rated,"$4,603",532
+748,Search Party,5/13/2016,Focus World,Comedy,R,"$4,571",528
+749,Synchronicity,1/22/2016,Magnolia Pictures,Thriller/Suspense,R,"$4,505",520
+750,"Arabian Nights: Volume 3, The Enchanted One",12/18/2015,Kino Lorber,Documentary,Not Rated,"$4,502",520
+751,Noma: My Perfect Storm,12/18/2015,Magnolia Pictures,Documentary,Not Rated,"$4,430",512
+752,On Meditation,7/27/2016,Kino Lorber,Documentary,Not Rated,"$4,322",499
+753,Auto Shop of Horrors,9/23/2016,Driving With Our Eyes Shut,Comedy,Not Rated,"$4,300",497
+754,Breaking a Monster,6/24/2016,Abramorama Films,Documentary,Not Rated,"$4,212",486
+755,Among the Believers,9/30/2016,First Run Features,Documentary,Not Rated,"$4,189",484
+756,I Don’t Belong Anywhere: The Cinema of Chantel Akerman,3/30/2016,Icarus Films,Documentary,Not Rated,"$4,069",470
+757,Coming Through the Rye,10/14/2016,Eammon Films ,Drama,PG-13,"$4,000",462
+758,The Hollow,10/7/2016,Uncork'd Entertainment,Thriller/Suspense,Not Rated,"$3,755",434
+759,The Last Film Festival,9/16/2016,Monterey Media,Comedy,R,"$3,558",411
+760,Amy,7/3/2015,A24,Documentary,R,"$3,528",407
+761,Mi America,10/16/2016,Industrial House Films,Drama,R,"$3,330",384
+762,Burning Bodhi,3/18/2016,Monterey Media,Drama,R,"$3,289",380
+763,"Arabian Nights: Vol. 1, The Restless One",12/4/2015,Kino Lorber,Drama,Not Rated,"$3,203",370
+764,In Harmony,4/15/2016,Distrib Films,Drama,Not Rated,"$3,144",363
+765,Chosen,12/16/2016,Hannover House,Drama,R,"$3,057",353
+766,Best and Most Beautiful Things,12/2/2016,First Run Features,Documentary,Not Rated,"$3,016",348
+767,Hooligan Sparrow,7/22/2016,The Film Collaborative ,Documentary,Not Rated,"$3,000",346
+768,Moana,1/7/1926,Paramount Pictures,Documentary,Not Rated,"$2,993",346
+769,The Bad Kids,12/16/2016,FilmRise,Documentary,Not Rated,"$2,977",344
+770,A Kind of Murder,12/16/2016,Magnolia Pictures,Thriller/Suspense,R,"$2,915",336
+771,The Professor: Tai Chi's Journey West,5/6/2016,First Run Features,Documentary,Not Rated,"$2,852",329
+772,The Summer of Sangaile,11/20/2015,Strand,Drama,Not Rated,"$2,780",321
+773,White Lies,3/4/2016,ArtMattan Productions,Drama,Not Rated,"$2,760",319
+774,The Forbidden Room,10/7/2015,Kino Lorber,Comedy,Not Rated,"$2,670",308
+775,Mekong Hotel,3/4/2016,Strand,Multiple Genres,Not Rated,"$2,502",289
+776,The World of Kanako,12/4/2015,Drafthouse Films,Drama,Not Rated,"$2,498",288
+777,Homeland: Iraq Year Zero,10/6/2016,Kino Lorber,Documentary,NC-17,"$2,491",287
+778,On War,11/20/2015,Indican Pictures,Comedy,Not Rated,"$2,414",279
+779,"1,000 Rupee Note",9/23/2016,Kino Lorber,Drama,Not Rated,"$2,404",277
+780,Memoria,4/8/2016,Monterey Media,Drama,R,"$2,242",259
+781,Vigilante Diaries,6/24/2016,Anchor Bay Entertainment,Action,R,"$1,991",230
+782,The Watermelon Woman,11/10/2016,First Run Features,Drama,Not Rated,"$1,989",229
+783,Skiptrace,9/2/2016,Saban Films,Action,PG-13,"$1,792",207
+784,A Beautiful Now,9/2/2016,Monterey Media,Drama,R,"$1,714",198
+785,In Her Name,12/2/2016,Distrib Films,Drama,Not Rated,"$1,623",187
+786,"Arabian Nights: Volume 2, The Desolate One",12/11/2015,Kino Lorber,Drama,Not Rated,"$1,559",180
+787,Hyena Road,3/11/2016,Samuel Goldwyn Films,Drama,R,"$1,430",165
+788,A Small Good Thing,8/19/2016,Kino Lorber,Documentary,Not Rated,"$1,196",138
+789,Yalom's Cure,3/11/2016,First Run Features,Documentary,Not Rated,"$1,164",134
+790,The Ghosts of Johnson Woods,12/2/2016,Driving With Our Eyes Shut,Horror,Not Rated,"$1,080",124
+791,Misfortune,8/5/2016,Gunnison Galaxy,Thriller/Suspense,Not Rated,$903,104
+792,Officer Downe,11/18/2016,Magnolia Pictures,Action,R,$850,98
+793,Next Time I’ll Aim for the Heart,4/1/2016,Distrib Films,Drama,Not Rated,$815,94
+794,The Student and Mr. Henri,8/19/2016,Distrib Films,Romantic Comedy,Not Rated,$761,87
+795,Down by Love,8/19/2016,Distrib Films,Drama,Not Rated,$675,78
+796,The Pit,9/30/2016,Kino Lorber,Horror,R,$560,64
+797,Dark Star: H.R. Giger's World,5/13/2015,Icarus Films,Documentary,Not Rated,$542,62
+798,Green is Gold,10/7/2016,Samuel Goldwyn Films,Drama,R,$455,52
+799,Güeros,5/20/2015,Kino Lorber,Comedy,Not Rated,$428,49
+800,News From Planet Mars,7/22/2016,Kino Lorber,Comedy,Not Rated,$310,35
+801,The Lady in the Car With Glasses and A Gun,12/18/2015,Magnolia Pictures,Thriller/Suspense,Not Rated,$266,30
+802,Satanic,7/1/2016,Magnolia Pictures,Horror,R,$252,29
